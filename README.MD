@@ -1,6 +1,6 @@
 ﻿# Getting started
 
-Run the init-script.sh to get the dependencies and test the build
+Run the [init-script.sh](./init-script.sh) to get the dependencies and test the build
 
 ```
 dotnet add package log4net
